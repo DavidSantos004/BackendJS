@@ -1,0 +1,22 @@
+{
+  "hardware": [
+    {
+      "pantalla": "ASUS ROG Swift OLED PG42UQ",
+      "id": 1
+    },
+    {
+      "teclado": "Rexus Mechanical Kx4",
+      "id": 2
+    },
+    {
+      "ram": "12gb",
+      "id": 3
+    },
+    {
+      "grafica": "RTX1080TI",
+      "id": 4
+    }
+  ],
+  "software": [],
+  "": []
+}
